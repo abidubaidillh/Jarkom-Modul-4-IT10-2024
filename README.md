@@ -57,3 +57,9 @@
 
   ![image](https://github.com/user-attachments/assets/7da3456e-e997-4499-99c7-ad5495bca136)
   ![Pembagian-8](https://github.com/user-attachments/assets/32b85742-d208-4097-9b13-fd9a97011ff9)
+
+### Tree 
+Setelah dilakukan pengelompokan IP, kita melakukan pembagian IP menggunakan tree untuk kelompok yang telah dibagikan sebelumnya dengan hasil seperti berikut!
+
+![image](https://github.com/user-attachments/assets/411564e8-bd90-43c2-823f-aead032b2ced)
+
